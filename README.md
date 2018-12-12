@@ -15,3 +15,6 @@ what's he doing ! :
 4- reset the origin Mac Address
 
 5- give you reasons to change your mac address
+
+To install, do the following one line at a time in Terminal:
+https://github.com/adongo1/Mac_changer.git
